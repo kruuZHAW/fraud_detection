@@ -1,7 +1,7 @@
 # fraud_detection
 Bank account fraud detection project. It will be presented at a technical interview for a Data Scientist position at the FIA. 
 
-A description of the dataset can be found on [Kaggle](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data?select=Base.csv).
+The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data?select=Base.csv). Please add it by yourself in the data folder. 
 
 Requirements:
 - Develop 2 ML models to compare their performances.

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "fraud-detection"
+version = "0.1.0"
+description = ""
+authors = ["kruu <kruu@zhaw.ch>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.0.1"
+pandas = "^2.2.2"
+ipykernel = "^6.29.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

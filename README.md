@@ -1,7 +1,7 @@
 # fraud_detection
 Bank account fraud detection project. It will be presented at a technical interview for a Data Scientist position at the FIA. 
 
-The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data?select=Base.csv). Please add it by yourself in the data folder. 
+The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data?select=Base.csv). 
 
 Requirements:
 - Develop 2 ML models to compare their performances.
@@ -15,7 +15,7 @@ Requirements:
 ## Prerequisites
 **Python Environment Setup**
 
-The python environement for this project is managd through [Poetry](https://python-poetry.org/). Poetry can be installed with the following command:
+The python environement for this project is managed through [Poetry](https://python-poetry.org/). Poetry can be installed with the following command:
 ```sh
 pip install poetry
 poetry --version

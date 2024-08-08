@@ -15,7 +15,7 @@ Requirements:
 ## Prerequisites
 **Python Environment Setup**
 
-The python environement for this project is managd through [Poetry](https://python-poetry.org/). Poetry can be installed with the following command:
+The python environement for this project is managed through [Poetry](https://python-poetry.org/). Poetry can be installed with the following command:
 ```sh
 pip install poetry
 poetry --version

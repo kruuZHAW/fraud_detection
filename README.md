@@ -23,6 +23,7 @@ poetry --version
 
 Install the Poetry env with:
 ```sh
+poetry config virtualenvs.in-project true
 poetry install
 ```
 The poetry virtual environment should be selectable as a kernel in a Jupyter Notebook. 

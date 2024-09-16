@@ -18,12 +18,12 @@ Requirements:
 The python environement for this project is managed through [Poetry](https://python-poetry.org/). Poetry can be installed with the following command:
 ```sh
 pip install poetry
+poetry config virtualenvs.in-project true
 poetry --version
 ```
 
 Install the Poetry env with:
 ```sh
-poetry config virtualenvs.in-project true
 poetry install
 ```
 The poetry virtual environment should be selectable as a kernel in a Jupyter Notebook. 
